@@ -1,0 +1,210 @@
+Sampling of time-series data in Pandas:
+https://stackoverflow.com/questions/27823273/counting-frequency-of-values-by-date-using-pandas
+
+IMBALANCE CLASS TREATMENT & MOdelling:
+https://towardsdatascience.com/comparing-different-classification-machine-learning-models-for-an-imbalanced-dataset-fdae1af3677f
+
+http://benalexkeen.com/resampling-time-series-data-with-pandas/
+
+https://machinelearningmastery.com/resample-interpolate-time-series-data-python/
+
+https://jakevdp.github.io/PythonDataScienceHandbook/03.11-working-with-time-series.html
+
+
+Time-Series Modeling:
+https://towardsdatascience.com/playing-with-time-series-data-in-python-959e2485bff8
+
+Understanding LSTM:
+http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
+Complete Guide:
+https://www.youtube.com/watch?v=e8Yw4alG16Q
+
+
+Good Example for Moving Average Smoothing:
+https://machinelearningmastery.com/moving-average-smoothing-for-time-series-forecasting-python/
+
+Good Explanation:
+https://towardsdatascience.com/trend-seasonality-moving-average-auto-regressive-model-my-journey-to-time-series-data-with-edc4c0c8284b
+
+A very clear explanation of the Modeling components:
+https://newonlinecourses.science.psu.edu/stat510/node/47/
+
+Addtive vs Multiplicative Trend: --- Graphical representation
+http://www.simafore.com/blog/bid/205420/Time-series-forecasting-understanding-trend-and-seasonality
+
+Good Idea on possibilities of Approaches for Time-Series Prediction Models:
+https://www.analyticsvidhya.com/blog/2018/08/auto-arima-time-series-modeling-python-r/
+
+Optmial P,D, Q Values:
+https://stackoverflow.com/questions/22770352/auto-arima-equivalent-for-python
+
+
+Very Good example for Time-Series end-to-end:
+https://towardsdatascience.com/an-end-to-end-project-on-time-series-analysis-and-forecasting-with-python-4835e6bf050b
+
+Good Observation of De-Trending by Difference & Division:
+https://anomaly.io/seasonal-trend-decomposition-in-r/
+
+Good Explanation of ARIMA:
+https://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/
+
+Beautiful Explanation to ACF & PACF:
+https://www.youtube.com/watch?v=-vSzKfqcTDg
+
+My Session: 2nd Day - Complete Tutorial:
+http://www.seanabu.com/2016/03/22/time-series-seasonal-ARIMA-model-in-python/
+https://github.com/seanabu/seanabu.github.io/blob/master/Seasonal_ARIMA_model_Portland_transit.ipynb
+
+Second good option for Second day:
+https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/
+https://github.com/aarshayj/Analytics_Vidhya/tree/master/Articles/Time_Series_Analysis
+
+May be good for second day:
+https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/
+
+Good Reference for SARIMAX Grid-Search:
+https://www.datasciencecentral.com/profiles/blogs/tutorial-forecasting-with-seasonal-arima
+
+Select PARAMETERS for Holt-Winters:
+https://www.quora.com/How-do-I-calculate-the-ideal-values-for-Alpha-Beta-and-Gamma-parameters-in-Holt-Winters-method
+
+HOLTS-WINTER CLEAR EXPLANATION:
+https://medium.com/datadriveninvestor/how-to-build-exponential-smoothing-models-using-python-simple-exponential-smoothing-holt-and-da371189e1a1
+
+Using SARIMA with FOURIER TRANSFORMATION:
+https://medium.com/intive-developers/forecasting-time-series-with-multiple-seasonalities-using-tbats-in-python-398a00ac0e8a
+
+Important Note on -- When to use what ??
+https://www.analyticsvidhya.com/blog/2018/09/non-stationary-time-series-python/
+
+BEST ARTICLE SO FAR: ----- to be used for CenturyLink
+https://www.kaggle.com/kashnitsky/topic-9-part-1-time-series-analysis-in-python
+
+Needs to be validated for CTL:
+https://www.kaggle.com/berhag/co2-emission-forecast-with-python-seasonal-arima
+
+PYRAMID MODEL --- AUTO-ARIMA:
+https://www.analyticsvidhya.com/blog/2018/08/auto-arima-time-series-modeling-python-r/
+
+To-DO ---- Residual Analysis:
+https://machinelearningmastery.com/visualize-time-series-residual-forecast-errors-with-python/
+Modelling Residual Data:
+https://machinelearningmastery.com/model-residual-errors-correct-time-series-forecasts-python/
+Auto-Arima:
+https://medium.com/@josemarcialportilla/using-python-and-auto-arima-to-forecast-seasonal-time-series-90877adff03c
+
+Excellent Statement:
+https://www.kaggle.com/berhag/co2-emission-forecast-with-python-seasonal-arima
+
+LSTM: Basics
+https://machinelearningmastery.com/how-to-develop-lstm-models-for-time-series-forecasting/
+
+LSTM: Advanced:
+https://machinelearningmastery.com/lstm-model-architecture-for-rare-event-time-series-forecasting/
+
+VAR:
+https://www.analyticsvidhya.com/blog/2018/09/multivariate-time-series-guide-forecasting-modeling-python-codes/
+https://dzone.com/articles/vector-autoregression-overview-and-proposals
+
+Excellent tutorial on Holt-Winters Method:
+https://grisha.org/blog/2016/01/29/triple-exponential-smoothing-forecasting/	
+
+*************************************************************************************************************************
+=========================================================================================================================
+*************************************************************************************************************************
+SLACK URL:
+https://hackathon-q883311.slack.com/messages/DFNN8N16Y/
+
+SLACK API URL:
+https://api.slack.com/apps/AFP378MV3/slash-commands?saved=1
+
+JIRA URL:
+https://trail2019.atlassian.net/secure/Dashboard.jspa
+
+JIRIO Guide:
+https://jirioslackapp.com/usage/
+
+Next-UP URL:
+https://account.nextup.ai/account/create/jira?new=true&bot=5c4d7bf2b0401f78059acfbb
+
+================
+NYLAS GOOGLE CALENDAR BLOCKING -- GUIDE
+https://www.nylas.com/blog/build-a-slack-bot-scheduler-in-30-minutes
+
+https://b61c8ac9.ngrok.io
+
+https://docs.nylas.com/reference#post-event
+
+NYlas:
+Secret Token:
+9sRSOnGZNhv5dFbcvPdu7SS1FRnuOA
+
+Nylas ID:
+e6n08kbcad6qcu4imotu336m5
+
+Google Calendar ID:
+xb63qftus3f8loe51mrpxy35
+=======================
+
+FAST2SMS Token:
+CU6njl7ZoP5D0QV1y3sIfxamMFRgOWG4cr9Bk8htvbuHSLzATXEC56b7MGUnfVpSWgLOXKrQdR3HPTNh
+
+====================
+
+CRONOFY SLACK CONNECTOR:
+
+Access Token:
+w3YKyPgk7doKcgoYAU-KecjNZFtrp6cw
+
+Exchange Calendar 
+cal_XEqf@J9txQLeip7-_Xftg@rjtUhunTi-TmuyC4w
+
+Google Calendar:
+cal_XEqf@J9txQLeip7-_g2uVe-coFVE-qDiAr0hrng
+
+============================
+Slack bot for JIRA Integration:
+https://chatbotslife.com/create-jira-tickets-in-slack-with-dialogs-7bcc40038ea2
+https://chatbotslife.com/new-feature-create-jira-issues-from-slack-116e78e232bb
+
+Next-UP URL:
+https://account.nextup.ai
+Application Name: nextupai
+
+Consumer Key:
+nextupai
+
+Consumer Name:
+nextupai
+
+Public Key:
+MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCLP6LnQNTH7iGSzT+TUWsdvy5k
+D2ZEPwuY1BoyqP7WThmLl6Xli7P7r8OofC1ti0gnCfWLVzaeu8Yx+sl+9GdJJDWu
+e1LCsoSatBPi4sgyymLZNB14Wyv7tTYumcN6N8tTvnKu9I6vUvn0PcYIXgbR9tjZ
+4mgrJHdcC9FKSTbJGwIDAQAB
+
+===================
+Pre-built Intents & Agents for JIRA Integration:
+https://github.com/intuit/benten/wiki/Create-BenTen-Agent-in-Dialog-flow
+
+
+Sample Python Integration using CRONOFY:
+https://app.cronofy.com/oauth/applications/5c4d55ccd0763e7a56f321ca/smart_invites/tutorial
+
+*************************************************************************************************************************
+=========================================================================================================================
+*************************************************************************************************************************
+
+
+
+--- Infinera Links -----
+
+STREAMSETS GUIDANCE:
+
+https://hub.docker.com/r/streamsets/datacollector/
+docker run --restart on-failure -p 18630:18630 -d --name streamsets-dc streamsets/datacollector dc
+
+
+https://blogs.perficient.com/2016/08/22/how-to-load-logs-data-into-hdfs-using-flume/
+
